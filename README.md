@@ -14,5 +14,5 @@ This script does add hotkeys to be able to use Germany Style Guilliments on the 
 |-|-|-|
 | `AltGr + y` | **»** | **›** |
 | `Shift + AltGr + y` | **›** | **»** |
-| `AltGr + x` | **‹** | **«** |
-| `Shift + AltGr + x` | **«** | **‹** |
+| `AltGr + x` | **«** | **‹** |
+| `Shoft + AltGr + x` | **‹** | **«** |
