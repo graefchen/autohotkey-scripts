@@ -13,6 +13,6 @@ This script does add hotkeys to be able to use Germany Style Guilliments on the 
 | Shortcut | Character | with CapsLock |
 |-|-|-|
 | `AltGr + y` | **»** | **›** |
-| `Shift + AltGr + y` | **»** | **›** |
+| `Shift + AltGr + y` | **›** | **»** |
 | `AltGr + x` | **‹** | **«** |
-| `Shift + AltGr + x` | **‹** | **«** |
+| `Shift + AltGr + x` | **«** | **‹** |
